@@ -1,5 +1,7 @@
 source :rubygems
 
+gem 'foreman'
+gem 'shotgun'
 gem 'sinatra'
 gem 'redis'
 gem 'rack-cors', require: 'rack/cors'
