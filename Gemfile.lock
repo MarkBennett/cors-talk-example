@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    foreman (0.40.0)
+      term-ansicolor (~> 1.0.7)
+      thor (>= 0.13.6)
+    rack (1.4.1)
+    shotgun (0.9)
+      rack (>= 1.0)
+    subcontractor (0.3.0)
+    term-ansicolor (1.0.7)
+    thor (0.16.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  foreman
+  shotgun
+  subcontractor (= 0.3.0)
